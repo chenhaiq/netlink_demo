@@ -1,0 +1,11 @@
+-bli0
+-npsl
+-cli0
+-l160
+-nut
+-TBITARRAY_TYPE
+-Targs_t
+-Tsocklen_t
+-TFILE
+-Tsize_t
+-Tssize_t
